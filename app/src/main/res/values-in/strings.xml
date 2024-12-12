@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="empty_message">Data Kosong</string>
+    <string name="headline">List Tugas Kamu</string>
+    <string name="add_todo">Tambah Tugas</string>
+    <string name="title_label">Judul</string>
+    <string name="description_label">Deskripsi</string>
+    <string name="date_label">Tanggal</string>
+    <string name="save_todo">Simpan Tugas</string>
+    <string name="invalid_date_message">Silahkan pilih tanggal dan waktu yang valid.</string>
+    <string name="todo_saved_successfully">Tugas berhasil disimpan!</string>
+    <string name="failed_save_todo_message">Gagal menyimpan tugas, silahkan coba lagi.</string>
+    <string name="delete_todo">Delete Todo</string>
+    <string name="delete_confirmation_message">Apakah kamu yakin ingin menghapus tugas ini?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="update_todo">Edit Tugas</string>
+    <string name="invalid_input_message">Silahkan isi data dengan benar</string>
+</resources>
