@@ -10,7 +10,6 @@ import com.mutdev.soulparkingtest.databinding.TodoItemBinding
 import com.mutdev.soulparkingtest.domain.Todo
 import com.mutdev.soulparkingtest.view.AddUpdateTodoActivity
 import java.util.Locale
-import kotlin.time.Duration.Companion.milliseconds
 
 class TodoListAdapter(val onFinish: (Todo) -> Unit): ListAdapter<Todo, TodoListAdapter.TodoViewHolder>(DIFF_CALLBACK) {
 
